@@ -29,7 +29,7 @@
 <p>Create an empty directory and run the following commands in the terminal: </p>
 
 ```bash
-    git clone https://github.com/Kaarti22/AI-Mock-Interviewer.git
+    https://github.com/GarimaUttam/Mock-Interview-Prep-with-AI.git
 
     cd AI-Mock-Interviewer
 
